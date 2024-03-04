@@ -1,0 +1,48 @@
+body{
+    background-color: #cbcbcb;
+    margin: 0 ;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column;
+    display: flex;
+    min-height: 50vh;
+}
+.conteudo{
+    background-color: white;
+    line-height: 1.5;  
+    max-width: 100%;
+    width: 45%;
+    margin: 100px auto ;
+    padding: 2%;
+    border-radius: 20px;
+    box-shadow: 0 0 0.5 rgba(0, 0, 0, 0.5);
+    flex: 1;
+}
+
+.perfil{
+    text-align: center;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+div{
+    font-family: Helvetica Neue;
+    font-size: 95%;
+}
+
+.Experiencia-Profissional{
+    line-height: 0.5;  
+
+}
+h1{
+    color: #7a3c27;
+
+}
+h2{
+    color: #7a3c27;
+
+}
