@@ -1,0 +1,94 @@
+/* Estilos CSS para o documento HTML */
+
+body{
+    background-color: #cbcbcb;
+    margin: 0 ;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column;
+    display: flex;
+    min-height: 50vh;
+    
+}
+
+nav{
+    background-color: white;
+    line-height: 1.5;  
+    max-width: 100%;
+    width: 45%;
+    margin: 100px auto ;
+    padding: 2%;
+    border-radius: 20px;
+    box-shadow: 0 0 0.5 rgba(0, 0, 0, 0.5);
+    flex: 1;  
+}
+
+h1 {
+    color: rgb(255, 254, 254);
+    background-color: red;
+    max-width: 600px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    font-size: 390%;
+    border-radius: 30px;
+
+}
+
+#subtitulo1{
+    background-color: #d4d4d4;
+    
+
+    background-color: white;
+    line-height: 1.5;  
+    max-width: 100%;
+    width: 45%;
+    margin: 100px auto ;
+    padding: 2%;
+    border-radius: 20px;
+    box-shadow: 0 0 0.5 rgba(0, 0, 0, 0.5);
+    flex: 1;
+}
+
+img{
+    width: 1030px ;
+    height: 600px;
+    border-radius: 20px;
+
+}
+
+img{
+    width: 1030px ;
+    height: 600px;
+    border-radius: 20px;
+
+}
+
+#subtitulo2{
+ 
+ background-color: #d4d4d4;
+
+ background-color: white;
+    line-height: 1.5;  
+    max-width: 100%;
+    width: 45%;
+    margin: 100px auto ;
+    padding: 2%;
+    border-radius: 20px;
+    box-shadow: 0 0 0.5 rgba(0, 0, 0, 0.5);
+    flex: 1;
+}
+
+
+
+
+blockquote {
+    border-left: 3px solid #ccc;
+    padding-left: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
